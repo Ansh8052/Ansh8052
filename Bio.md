@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ansh8052
-- 👀 I’m interested in Web development and designing 
-- 🌱 I’m currently learning full stack web development 
-- 💞️ I’m looking to collaborate on Google developer community 
+- 👋 Hi, I’m Ansh Kumar.
+- 👀 I’m a full stack Web developer and designer.
+- 🌱 I’m currently working on full stack web development projects. 
+- 💞️ I’m looking to collaborate on Google developer community.
 - 📫 How to reach me https://www.linkedin.com/in/ansh-kumar-945a28219
 
 <!---
